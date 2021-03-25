@@ -1,0 +1,14 @@
+{
+  "name": "mongoose_intro",
+  "version": "1.0.0",
+  "description": "A mongoose demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Liwag",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.2"
+  }
+}
